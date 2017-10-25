@@ -1,0 +1,19 @@
+========================================================================================
+
+OnboardSDK
+
+Version: OnboardSDK 3.1.9
+
+E: In SDK_Onboard\sample\CommandlineLinux_old\DJIscript\src\cmdSettings.cpp file, a compile failed occur in Line 82
+S: Replace SDK_VERSION to versionM100_31. Correct by kondeu, 2017-04-20
+
+E: SDK_Onboard/platform/manifold/inc/DJIHardDriverManifold.h and SDK_Onboard/platform/manifold/inc/DJIHardDriverManifold.cpp compile failed
+S: Replace SDK_Onboard/platform/manifold/inc/DJIHardDriverManifold.h with SDK_Onboard/sample/CommandlineLinux_old/src/DJIHardDriverManifold.h
+
+   Replace SDK_Onboard/platform/manifold/src/DJIHardDriverManifold.cpp with SDK_Onboard/sample/CommandlineLinux_old/src/DJIHardDriverManifold.cpp
+
+
+   Old files add a mark with suffix "(cannot make)"
+. Correct by kondeu, 2017-04-25
+
+========================================================================================

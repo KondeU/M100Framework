@@ -1,0 +1,42 @@
+Prop:
+	KeyLocation: ./key.txt
+	DeviceName: /dev/ttyTHS1
+	BaudRate: 230400
+	TargetVersion: M100 with SDK_3.1
+M100 config is valid and program run successfully.
+Could not Active. Program exited.
+Prop:
+	KeyLocation: ./key.txt
+	DeviceName: /dev/ttyTHS1
+	BaudRate: 230400
+	TargetVersion: M100 with SDK_3.1
+M100 config is valid and program run successfully.
+Load key and active successfully.
+Prop:
+	KeyLocation: ./key.txt
+	DeviceName: /dev/ttyTHS1
+	BaudRate: 230400
+	TargetVersion: M100 with SDK_3.1
+M100 config is valid and program run successfully.
+Load key and active successfully.
+Prop:
+	KeyLocation: ./key.txt
+	DeviceName: /dev/ttyTHS1
+	BaudRate: 230400
+	TargetVersion: M100 with SDK_3.1
+M100 config is valid and program run successfully.
+Load key and active successfully.
+Prop:
+	KeyLocation: ./key.txt
+	DeviceName: /dev/ttyTHS1
+	BaudRate: 230400
+	TargetVersion: M100 with SDK_3.1
+M100 config is valid and program run successfully.
+Load key and active successfully.
+Prop:
+	KeyLocation: ./key.txt
+	DeviceName: /dev/ttyTHS1
+	BaudRate: 230400
+	TargetVersion: M100 with SDK_3.1
+M100 config is valid and program run successfully.
+Load key and active successfully.
