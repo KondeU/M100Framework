@@ -27,7 +27,7 @@ class CLogger
 {
 public:
 
-	static const bool bFlightMove = false; // If this flag is false, flight motor will be lock for simulation
+	static const bool bFlightMove = true; // If this flag is false, flight motor will be lock for simulation
 
 	CLogger(string szLogFile, string szPath = string("./Runlog/"))
 	{

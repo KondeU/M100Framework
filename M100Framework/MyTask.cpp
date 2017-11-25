@@ -23,7 +23,7 @@ using namespace std;
 
 int MyTask(ConboardSDKScript & sdkScript)
 {
-	CFlight cFlight;
+	CFlight cFlight(&sdkScript);
 	cFlight.CtrlObtain();
 	cFlight.Takeoff();
 	sleep(3);

@@ -40,3 +40,23 @@ Prop:
 	TargetVersion: M100 with SDK_3.1
 M100 config is valid and program run successfully.
 Load key and active successfully.
+Prop:
+	KeyLocation: ./key.txt
+	DeviceName: /dev/ttyTHS1
+	BaudRate: 230400
+	TargetVersion: M100 with SDK_3.1
+M100 config is valid and program run successfully.
+Load key and active successfully.
+Flightask function return. Value is 0.
+Program exited normally.
+
+Prop:
+	KeyLocation: ./key.txt
+	DeviceName: /dev/ttyTHS1
+	BaudRate: 230400
+	TargetVersion: M100 with SDK_3.1
+M100 config is valid and program run successfully.
+Load key and active successfully.
+Flightask function return. Value is 0.
+Program exited normally.
+
