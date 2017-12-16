@@ -1,8 +1,5 @@
 # Make sure this is a C++ project
-# .cpp/.c/.h./html/.js/.css -> C++
+# .cpp/.c/.h -> C++
 *.cpp linguist-language=C++
 *.c linguist-language=C++
 *.h linguist-language=C++
-*.html linguist-language=C++
-*.js linguist-language=C++
-*.css linguist-language=C++
